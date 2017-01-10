@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/CUniOperatingSystems.dir/geheim.c.o CMakeFiles/CUniOperatingSystems.dir/cainabel.cpp.o  -o CUniOperatingSystems 
